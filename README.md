@@ -1,1 +1,2 @@
-# Harvard-Introduction-to-AI-with-Python
+# Harvard/Introduction to AI
+ 
